@@ -17,7 +17,7 @@ public class ReverseStack
 
         System.out.println("Reversed Stack");
         while (!obj1.isEmpty()) {
-            System.out.print(obj1.pop() + " ");
+            System.out.print(obj1.pop());
         }
         System.out.println();
 
